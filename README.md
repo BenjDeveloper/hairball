@@ -6,14 +6,6 @@ The paper and presentation slides for Hairball can be found at: http://cs.ucsb.e
 
 A Hairball demo web service is running and available at: http://hairball.herokuapp.com
 
-
-## Hairball installation
-
-With a proper python environment (one which has `pip` available), installation is as simple as `pip install hairball`. `easy_install` can also be used via `easy_install hairball`.
-
-To install from source, first checkout this project and then navigate your
-command-line interface to the outer hairball directory that contains `setup.py`. Then run `python setup.py install`.
-
 ## Running Hairball
 
 Once installed, to see how to use hairball run `hairball --help`. That will produce output similar to the following:
